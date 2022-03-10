@@ -1,0 +1,15 @@
+{
+    "name": "jeiri/reactpress",
+    "autoload": {
+        "psr-4": {
+            "Jeiri\\Reactpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Iriart",
+            "email": "jeiriart@gmail.com"
+        }
+    ],
+    "require": {}
+}
